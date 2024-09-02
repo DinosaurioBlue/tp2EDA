@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/francob/eda/tp2EDA/build",
+  "command": "/usr/bin/c++  -I/home/francob/dev/vcpkg/installed/x64-linux/include -g -std=gnu++11 -fsanitize=address -fsanitize=undefined -o CMakeFiles/main.dir/main.cpp.o -c /home/francob/eda/tp2EDA/main.cpp",
+  "file": "/home/francob/eda/tp2EDA/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/francob/eda/tp2EDA/build",
+  "command": "/usr/bin/c++  -I/home/francob/dev/vcpkg/installed/x64-linux/include -g -std=gnu++11 -fsanitize=address -fsanitize=undefined -o CMakeFiles/main.dir/CSVData.cpp.o -c /home/francob/eda/tp2EDA/CSVData.cpp",
+  "file": "/home/francob/eda/tp2EDA/CSVData.cpp",
+  "output": "CMakeFiles/main.dir/CSVData.cpp.o"
+},
+{
+  "directory": "/home/francob/eda/tp2EDA/build",
+  "command": "/usr/bin/c++  -I/home/francob/dev/vcpkg/installed/x64-linux/include -g -std=gnu++11 -fsanitize=address -fsanitize=undefined -o CMakeFiles/main.dir/Text.cpp.o -c /home/francob/eda/tp2EDA/Text.cpp",
+  "file": "/home/francob/eda/tp2EDA/Text.cpp",
+  "output": "CMakeFiles/main.dir/Text.cpp.o"
+},
+{
+  "directory": "/home/francob/eda/tp2EDA/build",
+  "command": "/usr/bin/c++  -I/home/francob/dev/vcpkg/installed/x64-linux/include -g -std=gnu++11 -fsanitize=address -fsanitize=undefined -o CMakeFiles/main.dir/Lequel.cpp.o -c /home/francob/eda/tp2EDA/Lequel.cpp",
+  "file": "/home/francob/eda/tp2EDA/Lequel.cpp",
+  "output": "CMakeFiles/main.dir/Lequel.cpp.o"
+}
+]

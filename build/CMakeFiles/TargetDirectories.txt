@@ -1,0 +1,3 @@
+/home/francob/eda/tp2EDA/build/CMakeFiles/main.dir
+/home/francob/eda/tp2EDA/build/CMakeFiles/edit_cache.dir
+/home/francob/eda/tp2EDA/build/CMakeFiles/rebuild_cache.dir

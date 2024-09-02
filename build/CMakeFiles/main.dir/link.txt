@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic -fsanitize=address -fsanitize=undefined CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/CSVData.cpp.o CMakeFiles/main.dir/Text.cpp.o CMakeFiles/main.dir/Lequel.cpp.o -o main  /home/francob/dev/vcpkg/installed/x64-linux/debug/lib/libraylib.a -lm -ldl -lpthread -lGL -lrt -lX11 
